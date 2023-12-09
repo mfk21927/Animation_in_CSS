@@ -39,7 +39,7 @@ div.a {
   } */
 
   /* TRANSFORM STYELE */
-  #div1 {
+  /* #div1 {
     position: relative;
     height: 200px;
     width: 200px;
@@ -64,4 +64,23 @@ div.a {
     background-color: yellow;
     transform: rotateY(-60deg);
   
+  } */
+
+  /* TRANSITION */
+  /* TRANSITION PROPERTY,TRANSITION DURATION,TRANSITION TIMING FUNCTION AND TRANSITION DELAY*/
+  /* div {
+    width: 100px;
+    height: 100px;
+    background:blueviolet;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 4ms;
+
   }
+  
+  div:hover {
+    width: 300px;
+  } */
+
+  /* transition  */
