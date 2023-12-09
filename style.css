@@ -1,0 +1,67 @@
+/* TRANSFORM */
+/* TRANSFORM PROPERTY */
+/* div{
+    width: 150px;
+    height: 80px;
+    background-color: yellow;
+}
+div.a {
+  
+    transform: rotate(20deg);
+  }
+  
+  div.b {
+   
+    transform: skewY(20deg);
+  }
+  
+  div.c {
+    transform: scaleY(1.5);
+  } */
+
+  /* TRANSFORM ORIGIN  */
+  /* #div1 {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  #div2 {
+    padding: 50px;
+    position: absolute;
+    border: 1px solid black;
+    background-color: red;
+    transform: rotate(45deg);
+    transform-origin: 30% 40%;
+  } */
+
+  /* TRANSFORM STYELE */
+  #div1 {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin: 100px;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  #div2 {
+    padding: 50px;
+    position: absolute;
+    border: 1px solid black;
+    background-color: red;
+    transform: rotateY(60deg);
+    transform-style: preserve-3d;
+  }
+  
+  #div3 {
+    padding: 40px;
+    position: absolute;
+    border: 1px solid black;
+    background-color: yellow;
+    transform: rotateY(-60deg);
+  
+  }
